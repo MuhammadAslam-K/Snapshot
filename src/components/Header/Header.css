@@ -1,0 +1,16 @@
+
+ul{
+    display: flex;
+    list-style: none;
+    background-color: black;
+    height:35px;
+
+}
+ul li {
+    margin: 0.5em 1em;
+    font-size: 1.2rem;
+    color: rgb(232, 209, 209);
+}
+a{
+    text-decoration: none;
+}

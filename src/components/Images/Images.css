@@ -1,0 +1,30 @@
+
+.post{
+    width: 207px;
+    border-radius: 10px;
+    padding: 5px;
+    cursor: pointer;
+}
+.post:hover{
+    transform: scale(1.5);
+}
+.posts{
+    width: 190px;
+    border-radius: 10px;
+    padding: 5px;
+    height: 259px;
+    cursor: pointer;
+    
+}
+.posts:hover{
+    transform: scale(1.5);
+}
+.birdpost{
+    height: 259px;
+    width: 200px;
+    border-radius: 10px;
+    padding: 5px;
+}
+.birdpost:hover{
+    transform: scale(1.5);
+}
